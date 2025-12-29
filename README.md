@@ -112,18 +112,6 @@ Authorization: Bearer {token}
 
 ---
 
-## 🌐 API Endpoint (Contoh)
-
-| Method | Endpoint      | Deskripsi             |
-| ------ | ------------- | --------------------- |
-| POST   | /api/register | Registrasi user       |
-| POST   | /api/login    | Login user            |
-| POST   | /api/logout   | Logout user           |
-| GET    | /api/posts    | Ambil semua postingan |
-| POST   | /api/posts    | Upload postingan      |
-
----
-
 ## 🖼️ Upload Gambar
 
 * Gambar disimpan menggunakan Laravel Storage
