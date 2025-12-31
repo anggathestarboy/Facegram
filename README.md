@@ -138,6 +138,3 @@ Authorization: Bearer {token}
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini bersifat **open-source** dan bebas digunakan untuk pembelajaran dan pengembangan lebih lanjut.
